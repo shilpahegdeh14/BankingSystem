@@ -1,0 +1,11 @@
+{
+    "personID": 10,
+    "person_type": "Employee",
+    "name": "Mark Josh",
+    "address": "333 North St",
+    "contact_info": "423-466-1890",
+    "employeeID": "EMP101",
+    "jobTitle": "Senior Financial Analyst",
+    "employeeType": "Full-Time",
+    "salary": 50000
+}
